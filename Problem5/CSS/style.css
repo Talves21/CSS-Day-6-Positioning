@@ -1,0 +1,12 @@
+.mainContent{
+    height: 1000px;
+}
+
+button{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 20px;
+    border: 5px solid red;
+    z-index: 10;
+}

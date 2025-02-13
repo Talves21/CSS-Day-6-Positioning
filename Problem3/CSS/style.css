@@ -1,0 +1,15 @@
+.box1{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    background-color: beige;
+    z-index: 1;
+}
+
+.box2{
+    position: absolute;
+    top: 120px;
+    left: 120px;
+    background-color: aquamarine;
+    z-index: 2;
+}

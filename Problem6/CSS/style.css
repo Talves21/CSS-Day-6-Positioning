@@ -1,0 +1,43 @@
+nav{
+    position: relative;
+    top: 10px;
+    left: 10px;
+    background-color: aquamarine;
+    :hover{
+        color: red;
+    }
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+}
+
+li{
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    position: relative;
+    background-color: beige;
+    height: 1000px;
+}
+
+.badge{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: blue;
+    z-index: 1;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+}
